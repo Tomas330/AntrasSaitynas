@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:getRoomResponse xmlns:tns="http://spring.io/guides/gs-producing-web-service">
+    <tns:room>
+        <tns:roomNumber>1</tns:roomNumber>
+        <tns:roomType>Single</tns:roomType>
+        <tns:roomPrice>50.0</tns:roomPrice>
+    </tns:room>
+</tns:getRoomResponse>
